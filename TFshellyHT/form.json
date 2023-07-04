@@ -1,0 +1,14 @@
+{
+	"elements":
+	[
+		{ "type": "ValidationTextBox", "name": "server", "caption": "Server" },
+		{ "type": "ValidationTextBox", "name": "deviceId", "caption": "Device-ID" },
+		{ "type": "ValidationTextBox", "name": "token", "caption": "Cloud-Token" },
+		{ "type": "SelectInstance", "name": "wfId", "caption": "Notifications-Instanz" },
+		{ "type": "SelectCategory", "name": "targetId", "caption": "Ziel für Webfront" }
+	],
+	"actions":
+	[
+		{ "type": "Button", "label": "Daten abrufen", "onClick": "TFSHT_GetData($id);" }
+	]
+}

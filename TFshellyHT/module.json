@@ -1,0 +1,14 @@
+{
+	"id": "{7C2A001E-C428-48EB-998F-24FF7873401B}",
+	"name": "TFshellyHT",
+	"type": 3,
+	"vendor": "Shelly",
+	"aliases": 
+	[
+		"Shelly Plus H&T"
+	],
+	"parentRequirements": [],
+	"childRequirements": [],
+	"implemented": [],
+	"prefix": "TFSHT"
+}
